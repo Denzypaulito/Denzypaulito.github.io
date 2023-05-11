@@ -1,0 +1,42 @@
+#IZQUIERDA {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    float: left;
+    width: 25%;
+}
+#DERECHA {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    float: right;
+    width: 65%;
+}
+#fotito {
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+}
+#TITULOTE {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #422d03;
+}
+.TITULO {
+    color: #7c5303;
+}
+.TITULO2 {
+    color: #422d03;
+}
+.JUSTIFICADO {
+    text-align: justify;
+}
+
+.COLORES {
+    float: left;
+    width: 50%;
+    background-color: #e3cb9b;
+}
+
+body {
+    background-color: #e8dabd;
+    background-image: linear-gradient(to bottom, #E1B04C 6%, transparent 6%), linear-gradient(to right, #e3cb9b 30%, transparent 20%);
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
